@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-eyed-penguin&layout=compact&theme=radical" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-eyed-penguin&layout=compact&hide_border=true&theme=radical" width="400" />
 <br />
 <br />
 <br />
