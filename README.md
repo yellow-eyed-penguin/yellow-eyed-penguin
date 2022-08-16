@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" />
+<img align="left" alt="Kotlin" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+<img align="left" alt="Godot" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" />
 <br/>
 <br/>
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -32,10 +34,10 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Svelte" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
 <a href="https://www.selenium.dev/" target="_blank"> <img align="left" alt="selenium" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" /> </a>
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+<img align="left" alt="Flask" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img align="left" alt="TailwindCSS" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> </a>
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" />
 <br/>
@@ -44,8 +46,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Firebase" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Spring" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Android" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
+<img align="left" alt="Android Studio" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
 </p>
 <br />
 <br />
