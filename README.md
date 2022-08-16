@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p>
-<img align="left" alt="" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-<img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
+<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Kotlin" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
-<img align="left" alt="Godot" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" />
 <br/>
 <br/>
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -50,6 +48,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Spring" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Android" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
 <img align="left" alt="Android Studio" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Flutter" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React Native" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
+<img align="left" alt="Godot" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" />
 </p>
 <br />
 <br />
