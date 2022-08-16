@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Svelte" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />
 <a href="https://www.selenium.dev/" target="_blank"> <img align="left" alt="selenium" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" /> </a>
 <img align="left" alt="Flask" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<img align="left" alt="TailwindCSS" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+<img align="left" alt="Django" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> </a>
 <img align="left" alt="" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" />
 <br/>
